@@ -1,24 +1,24 @@
-# README
+# LEIA-ME
 
-## About this project?
+## Sobre este projeto?
 
-This project is about ordering online food from your local restaurants. Anybody can create an account and order online. you are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+Este projeto é sobre como pedir comida online em restaurantes locais. Qualquer pessoa pode criar uma conta e fazer pedidos online. você está livre para usar este projeto para fins de faculdade ou escola. Observe que este projeto não é feito para fins comerciais ou comerciais.
 
-![Front view](.gitbook/assets/1.png)
+! [Visão frontal] (. Gitbook / assets / 1.png)
 
-![Backend view](.gitbook/assets/2.png)
+! [Visualização de back-end] (. Gitbook / assets / 2.png)
 
-## Installation or Demo
+## Instalação ou demonstração
 
-Just create new database in phpmyadmin and import SQL file which is located in `SQL/` directory. If you don't know, how to setup this project on your localhost then watch this youtube video: [https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
+Basta criar um novo banco de dados no phpmyadmin e importar o arquivo SQL que está localizado no diretório `SQL /`. Se você não sabe como configurar este projeto em seu host local, assista a este vídeo do youtube: [https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
 
 ## Admin Dashboard
 
-To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
+Para acessar o portal de administração, digite no seu URL BAR ** \ `root ** / admin / \` onde ** root ** é o seu diretório raiz
 
- **Admin credentials:** Username: **admin** Password: **1234**
+ ** Credenciais de administrador: ** Nome de usuário: ** admin ** Senha: ** 1234 **
 
-## Technologies Used
+## Tecnologias usadas
 
 1. PHP
 2. SQL
@@ -26,11 +26,10 @@ To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **r
 4. AJAX
 5. JQUERY
 
-## System Requirements
+## Requisitos de sistema
 
-Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
+Software: XAMPP / Wamp / Mamp / Lamp \ (qualquer pessoa \).
 
-## Want custom PHP project?
+## Quer um projeto PHP personalizado?
 
-If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/code\_lone/](https://www.instagram.com/code_lone/)
-
+Se você está procurando um projeto específico para sua escola ou faculdade, siga-me no intagram e me mande uma mensagem lá. [https://www.instagram.com/code\_lone/](artecsistemas.com)
