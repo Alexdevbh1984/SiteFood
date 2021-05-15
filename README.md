@@ -10,7 +10,7 @@ Este projeto é sobre como pedir comida online em restaurantes locais. Qualquer 
 
 ## Instalação ou demonstração
 
-Basta criar um novo banco de dados no phpmyadmin e importar o arquivo SQL que está localizado no diretório `SQL /`. Se você não sabe como configurar este projeto em seu host local, assista a este vídeo do youtube: [https://youtu.be/aBiIgUhe0Jk](https://youtu.be/aBiIgUhe0Jk)
+Basta criar um novo banco de dados no phpmyadmin e importar o arquivo SQL que está localizado no diretório `SQL /`. Se você não sabe como configurar este projeto em seu host local.)
 
 ## Admin Dashboard
 
