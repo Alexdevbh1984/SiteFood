@@ -32,4 +32,4 @@ Software: XAMPP / Wamp / Mamp / Lamp \ (qualquer pessoa \).
 
 ## Quer um projeto PHP personalizado?
 
-Se você está procurando um projeto específico para sua escola ou faculdade, siga-me no intagram e me mande uma mensagem lá. [https://www.instagram.com/code\_lone/](artecsistemas.com)
+Se você está procurando um projeto específico para sua escola ou faculdade, siga-me no intagram e me mande uma mensagem lá. (artecsistemas.com)
